@@ -17,11 +17,13 @@
   - Programming 💻
   - Music 🎸
   - working out / martial arts training 🥋
+  
+ ### What am i up to?
 
 - 🔭 I’m currently working on a investment application for stocks and crypto
 - 🌱 I’m currently learning React.JS and redux/react-redux
 
-- 📫 How to reach me: jon@sundelof.se
+- 📫 You can reach me at: jon@sundelof.se
 
 <!--
 **jon-sundelof/jon-sundelof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
