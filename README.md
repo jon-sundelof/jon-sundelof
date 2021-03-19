@@ -16,7 +16,7 @@
 ### What I do for fun / hobbies
   - Programming 💻
   - Music 🎸
-  - working out / martial arts training 🥋
+  - Working out / Martial arts training 🥋
   
  ### What am i up to?
 
