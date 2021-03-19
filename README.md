@@ -5,6 +5,7 @@
 ### Languages and tools
  - JAVASCRIPT
  - React.JS
+ - Redux
  - HTML5
  - CSS3
  - Firebase
