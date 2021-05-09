@@ -11,6 +11,7 @@
  - CSS3
  - Firebase
  - MongoDB
+ - Node.js & Express
  - Git
  - Figma
 
