@@ -21,9 +21,10 @@
  ### What am i up to?
 
 - 🔭 I’m currently working on a investment application for stocks and crypto
-- 🌱 I’m currently learning React.JS and redux/react-redux
+- 🌱 I’m currently learning the MERN stack, and NextJS
 
 - 📫 You can reach me at: jon@sundelof.se
+- 🔍 Visit my portfolio at https://jonsundelof.com/
 
 <!--
 **jon-sundelof/jon-sundelof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
