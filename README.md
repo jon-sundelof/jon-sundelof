@@ -5,10 +5,12 @@
 ### Languages and tools
  - JAVASCRIPT
  - React.JS
+ - NextJS
  - Redux
  - HTML5
  - CSS3
  - Firebase
+ - MongoDB
  - Git
  - Figma
 
