@@ -24,7 +24,7 @@
  ### What am i up to?
 
 - 🔭 I’m currently working on a investment application for stocks and crypto
-- 🌱 I’m currently learning the MERN stack, and NextJS
+- 🌱 I’m currently learning the MERN stack, NextJS, Dart & Flutter :)
 
 - 📫 You can reach me at: jon@sundelof.se
 - 🔍 Visit my portfolio at https://jonsundelof.com/
