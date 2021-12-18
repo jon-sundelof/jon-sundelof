@@ -1,4 +1,4 @@
-# Hello! I'm Jon Sundelöf 👋
+# Hello! I'm Jon Sundelöf 👋 :santa: 
 
 ## Front-end Developer student at KYH Stockholm
 
