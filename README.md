@@ -6,7 +6,7 @@
  - JAVASCRIPT
  - React.JS
  - NextJS
- - Redux
+ - Redux / Redux toolkit
  - HTML5
  - CSS3 / SASS / TAILWIND CSS / STYLED COMPONENTS
  - Firebase
