@@ -8,7 +8,7 @@
  - NextJS
  - Redux
  - HTML5
- - CSS3
+ - CSS3 / SASS / TAILWIND CSS / STYLED COMPONENTS
  - Firebase
  - MongoDB
  - Node.js & Express
@@ -23,7 +23,7 @@
   
  ### What am i up to?
 
-- 🔭 I’m currently working on a investment application for stocks and crypto
+- 🔭 I’m currently working on a CRM tool
 - 🌱 I’m currently learning the MERN stack, NextJS, Dart & Flutter :)
 
 - 📫 You can reach me at: jon@sundelof.se
